@@ -2,10 +2,7 @@
 
 ### Hi there 👋
 
- A newcomer to github and also to computer science.
- 
- Keep learning and fighting! 😜
- 
- Wish you all the best.
-
- 21:05 20201201
+ A newcomer to github and also to computer science.  
+ Keep learning and fighting! 😜  
+ Wish you all the best.  
+ 20201201
